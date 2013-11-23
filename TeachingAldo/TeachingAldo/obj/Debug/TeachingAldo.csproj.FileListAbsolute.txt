@@ -1,0 +1,6 @@
+c:\users\eric.fontenault\documents\visual studio 2012\Projects\TeachingAldo\TeachingAldo\bin\Debug\TeachingAldo.exe.config
+c:\users\eric.fontenault\documents\visual studio 2012\Projects\TeachingAldo\TeachingAldo\bin\Debug\TeachingAldo.exe
+c:\users\eric.fontenault\documents\visual studio 2012\Projects\TeachingAldo\TeachingAldo\bin\Debug\TeachingAldo.pdb
+c:\users\eric.fontenault\documents\visual studio 2012\Projects\TeachingAldo\TeachingAldo\obj\Debug\TeachingAldo.csprojResolveAssemblyReference.cache
+c:\users\eric.fontenault\documents\visual studio 2012\Projects\TeachingAldo\TeachingAldo\obj\Debug\TeachingAldo.exe
+c:\users\eric.fontenault\documents\visual studio 2012\Projects\TeachingAldo\TeachingAldo\obj\Debug\TeachingAldo.pdb
